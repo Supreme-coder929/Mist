@@ -1,7 +1,7 @@
 
-# Mist | Exploitation Framework
+# Mist | A hacker's secret toolkit
 
-Mist is a simple to use yet complex exploitation framework. It features a handful of tools that are helpful for hackers.
+Mist is hacker's secret toolkit. It features a handful of tools that are helpful for hackers.
 
 
 
@@ -33,7 +33,7 @@ Mist is a simple to use yet complex exploitation framework. It features a handfu
 
 - Better reverse shell module
 
-- Phishing module [PRE-BUILT TEMPLATES FOR YOU TO USE]
+- More tools 
 
 
 ## Installation
@@ -44,7 +44,7 @@ Mist is a simple to use yet complex exploitation framework. It features a handfu
   chmod +x setup.sh
   ./setup.sh
 ```
-ADDITONAL INFORMATION
+## Addtional Information
 
 ```bash
 In the modules folder there is a enviornment file which has free api keys 
@@ -60,4 +60,10 @@ BUNDLE_QUALITY_API_KEY=u13Sp0QQW2WudN3guxvoIgNxeV0z6ArR
 
 
 ```
+    
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
     
