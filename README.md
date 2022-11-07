@@ -1,7 +1,7 @@
 
 # Mist | A hacker's secret toolkit
 
-Mist is hacker's secret toolkit. It features a handful of tools that are helpful for hackers.
+Mist is hacker's handy toolkit. It features a handful of tools that are helpful for hackers.
 
 
 
